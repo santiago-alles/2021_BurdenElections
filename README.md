@@ -1,6 +1,8 @@
 The Burden of Election Logistics:</br >Election Ballots and the Territorial Influence of Party Machines in Colombia
 ==============================================
 <i>The Journal of Politics</i>, 2021, 83 (4): 1635-1651.</br >
+DOI: 10.1086/711899
+
 Replication Data
 
 Santiago <b>Alles</b></br >
